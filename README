@@ -1,0 +1,4 @@
+This project is probably of limited use for others, but I wanted to share it anyway. It comes out of a desire to look at the social network on the quartertothree.com forums. There are methods for scraping the forums (and possibly any vbulletin based forum) as well as making different types of graphs out of the data using igraph. Specifically, I'm interested in graphs weighted by frequency of interaction. 
+
+If you have any questions or comments on how to improve things let me know, chris.severs@gmail.com
+
