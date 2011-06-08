@@ -39,6 +39,8 @@ class vbforumcrawler:
   
   '''
 
+  pageque = None
+
   # Start a mechanize browser and login if desired. 
   # Input: option login boolean and site
   def __init__(self,login=False, site="http://www.quartertothree.com/game-talk/"): 
