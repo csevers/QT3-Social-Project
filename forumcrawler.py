@@ -180,8 +180,8 @@ class vbforumcrawler:
       if (nextpage):
         self.pageque.append(nextpage['href'])
       
-      # return all the unique edge pairs
-      return list(set(edgelist))
+    # return all the unique edge pairs
+    return list(set(edgelist))
   
   
   
